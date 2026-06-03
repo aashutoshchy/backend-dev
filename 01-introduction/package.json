@@ -1,0 +1,16 @@
+{
+  "name": "music_player",
+  "version": "1.1.1",
+  "description": "This is Music Player",
+  "license": "ISC",
+  "author": "Ashutosh",
+  "type": "commonjs",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "slugify": "^1.6.9"
+  }
+}
